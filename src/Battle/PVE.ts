@@ -1,7 +1,8 @@
 import Battle from './Battle';
 import Fighter, { SimpleFighter } from '../Fighter';
+import Monster from '../Monster';
 
-type Fighters = Fighter | SimpleFighter;
+type Fighters = Fighter | SimpleFighter | Monster;
 
 class PVE extends Battle {
   private _enemies: Fighters[];
