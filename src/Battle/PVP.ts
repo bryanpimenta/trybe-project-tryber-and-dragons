@@ -15,9 +15,7 @@ class PVP extends Battle {
       this._anotherPlayer.attack(this.player);
     }
     
-    if (this.player.lifePoints === -1) {
-      return -1;
-    } 
+    if (this.player.lifePoints === -1) return -1;
     return 1;
   }
 }
