@@ -1,10 +1,31 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project Trybe and Dragons !
+
+Neste projeto, foi desenvolvido o back-end de uma estrutura de um jogo de interpretação de personagens, mais conhecido como jogos de RPG, chamado Trybers e Dragões. Neste universo, existem seres de diferentes raças, com características e poderes distintos que podem enfrentar uns aos outros.
+
+---
+
+## Sobre o projeto
+
+Este projeto foi desenvolvido com foco na aprendizagem da aplicação dos princípios da arquitetura SOLID e dos princípios da Programação Orientada a Objetos (Herança, Abstração, Encapsulamento e Polimorfismo).
+---
+
+## Tecnologias utilizadas
+
+* Typescript
+
+---
+
+## Como executar o projeto
+
+Para executar o projeto localmente:
+
+1.Clone o repositório
+```
+$ git clone git@github.com:bryanpimenta/Trybers-and-Dragons.git
+```
+2.Instale as dependências
+```
+$ npm install
+```
+
+---
