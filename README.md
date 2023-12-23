@@ -11,6 +11,7 @@ Este projeto foi desenvolvido com foco na aprendizagem da aplicação dos princ�
 ## Tecnologias utilizadas
 
 * Typescript
+* Docker
 <br><br/>
 
 ## Como executar o projeto
